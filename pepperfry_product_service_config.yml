@@ -1,4 +1,0 @@
-spring: 
-  application: 
-    name: product_service
-    version: 2.3.0
