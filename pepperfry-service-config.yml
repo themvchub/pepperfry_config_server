@@ -16,5 +16,5 @@ eureka:
     fetch-registry: false
     register-with-eureka: true
     service-uri: 
-      defaultzone: http://localhost:8761
+      defaultzone: http://localhost:8761/eureka
 
