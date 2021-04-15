@@ -1,0 +1,4 @@
+spring: 
+  application: 
+    name: perpperfry-product-service
+    version: 1.0.0
