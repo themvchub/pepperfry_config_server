@@ -11,4 +11,10 @@ spring:
     show-sql: true
 product: 
   defaultCategory: electronics
+eureka: 
+  client: 
+    fetch-registry: false
+    register-with-eureka: true
+    service-uri: 
+      defaultzone: http://localhost:8761
 
