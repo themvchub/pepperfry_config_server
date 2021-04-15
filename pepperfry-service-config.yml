@@ -4,4 +4,3 @@ spring:
     version: 1.0.0
 product: 
   defaultCategory: electronics
-  defaultDispatchTyme: 4days
